@@ -11,7 +11,7 @@ export default function Footer() {
         <h1 className='text-[32px] text-left text-white font-normal tracking-wide relative'>
         STUDY<span className='font-bold bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent'>table</span>
       </h1>
-          <button className='bg-white cursor-pointer shadow-lg hover:scale-105 duration-300 transition-all hover:shadow-white/25 text-black px-4 py-2 rounded-lg hover:bg-gray-100 transition-colors flex items-center gap-2 group'>
+          <button className='bg-white cursor-pointer shadow-lg hover:scale-105 duration-300  hover:shadow-white/25 text-black px-4 py-2 rounded-lg hover:bg-gray-100 transition-colors flex items-center gap-2 group'>
             <Pin className='group-hover:scale-110 transition-transform' />
             <span className='font-medium'>Notice Board</span>
           </button>
