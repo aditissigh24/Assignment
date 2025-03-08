@@ -16,3 +16,5 @@ This project is a assignment. It features a modern, responsive design of a landi
 
 ## 📌 Deployment
 The project is deployed on vercel. You can access it here: [https://assignment-beta-pearl.vercel.app/]
+![Homepage Screenshot](https://raw.githubusercontent.com/aditissigh24/Assignment/main/src/assets/homepage.png)
+
