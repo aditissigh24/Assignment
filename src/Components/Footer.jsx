@@ -18,7 +18,7 @@ export default function Footer() {
         </div>
 
         {/* Socials Section */}
-        <div className='space-y-6 ml-40'>
+        <div className='space-y-6 sm:ml-40'>
           <h2 className='text-2xl font-semibold text-white border-b border-white/10 pb-2'>
             Socials
           </h2>
@@ -35,7 +35,7 @@ export default function Footer() {
         </div>
 
         {/* Blogs Section */}
-        <div className='space-y-6 lg:col-span-2 ml-20'>
+        <div className='space-y-6 lg:col-span-2 sm:ml-20'>
           <h2 className='text-2xl font-semibold text-white border-b border-white/10 pb-2'>
             Blogs
           </h2>
