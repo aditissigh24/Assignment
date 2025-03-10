@@ -18,7 +18,7 @@ export default function Footer() {
         </div>
 
         {/* Socials Section */}
-        <div className='space-y-6'>
+        <div className='space-y-6 ml-40'>
           <h2 className='text-2xl font-semibold text-white border-b border-white/10 pb-2'>
             Socials
           </h2>
@@ -35,21 +35,21 @@ export default function Footer() {
         </div>
 
         {/* Blogs Section */}
-        <div className='space-y-6 lg:col-span-2'>
+        <div className='space-y-6 lg:col-span-2 ml-20'>
           <h2 className='text-2xl font-semibold text-white border-b border-white/10 pb-2'>
             Blogs
           </h2>
-          <div className='grid grid-cols-1 sm:grid-cols-2 gap-4'>
-            <a href="#" className='text-white/80 hover:text-white transition-colors hover:translate-x-2 transform duration-300 block'>
+          <div className='grid grid-cols-1  gap-4'>
+            <a href="#" className='text-white/80 hover:text-white transition-colors  transform duration-300 block'>
               How we plan learning session?
             </a>
-            <a href="#" className='text-white/80 hover:text-white transition-colors hover:translate-x-2 transform duration-300 block'>
+            <a href="#" className='text-white/80 hover:text-white transition-colors  transform duration-300 block'>
               How we plan assessment session?
             </a>
-            <a href="#" className='text-white/80 hover:text-white transition-colors hover:translate-x-2 transform duration-300 block'>
+            <a href="#" className='text-white/80 hover:text-white transition-colors  transform duration-300 block'>
               How we manage student life?
             </a>
-            <a href="#" className='text-white/80 hover:text-white transition-colors hover:translate-x-2 transform duration-300 block'>
+            <a href="#" className='text-white/80 hover:text-white transition-colors  transform duration-300 block'>
               The effective student
             </a>
           </div>
@@ -57,11 +57,7 @@ export default function Footer() {
       </div>
 
       {/* Copyright Section */}
-      <div className='max-w-7xl mx-auto mt-16 pt-8 border-t border-white/10'>
-        <p className='text-white/60 text-center'>
-          © 2025 STUDYtable. All rights reserved.
-        </p>
-      </div>
+      
     </footer>
   )
 }
